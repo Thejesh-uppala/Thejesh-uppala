@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Thejesh-uppala
-- 👀 I’m interested in web and android development
-- 🌱 I’m currently learning coding 
-- 💞️ I’m looking opportunity
 - 📫 How to reach me ... thejeshmulinja123@gmail.com
 
 <!---
